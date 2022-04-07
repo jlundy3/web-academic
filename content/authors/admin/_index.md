@@ -72,4 +72,4 @@ highlight_name: true
 ---
 Jessica Lundy obtained her BSc. in Psychology from the University of Toronto and completed a graduate diploma in Victimology at Durham College. She is currently a first year Master’s student at Carleton University. Her research interests centre around investigative interviewing techniques and how they may contribute to false confessions, as well as cold cases.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
